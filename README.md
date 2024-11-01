@@ -13,7 +13,6 @@ were built using the page object model design in an infrastructure structure.
 
 **Allure Reports**: Generates detailed and interactive reports, providing insights into test results and facilitating
 debugging failures.
-Additionally, Allure captures screenshots of failures to aid in visual troubleshooting.
 
 ### How to Run Tests
 
