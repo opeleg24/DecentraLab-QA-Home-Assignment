@@ -16,7 +16,7 @@ debugging failures.
 
 ### How to Run Tests
 
-To execute the tests through the terminal using Allure commands:
+To execute the tests through the terminal using these commands:
 
 **Run tests:**
 
