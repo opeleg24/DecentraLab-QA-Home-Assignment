@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Environment>
+    <!--General-->
+    <WaitTime>10</WaitTime>
+    <ScreenshotPath>./allure-screen-shots/</ScreenshotPath>
+    <Browser>chrome</Browser>
+    <UrlHordApp>https://staging-app.hord.fi</UrlHordApp>
+    <UrlRevenueShare>https://staging-app.hord.fi/revenue-share</UrlRevenueShare>
+
+    <!--data for Test_Hord:test case02-->
+    <EXPECTED_STRING>expanded</EXPECTED_STRING>
+
+    <!--data for Test_Revenue_Share test case01-->
+    <FAQJsonData>./ddt/faq_section.json</FAQJsonData>
+
+
+</Environment>
